@@ -1,0 +1,2 @@
+TRAINING_BUCKET_NAME="rbforest"
+PREDICTION_BUCKET_NAME="rbforestpre"
