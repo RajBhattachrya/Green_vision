@@ -17,7 +17,9 @@ It leverages machine learning models (via Jupyter notebooks) and a simple web in
 ⚡ Easy setup with requirements.txt
 
 # 📂 Project Structure
+
 Green_vision/
+
 │── notebooks/         # Jupyter Notebooks for model training & testing
 │── src/               # Source code (data processing, utils, models, etc.)
 │── templates/         # HTML templates for Flask web app
