@@ -39,5 +39,6 @@ venv\Scripts\activate      # On Windows
 # Install dependencies
 pip install -r requirements.txt
 
-▶️ Running the App
+**▶️ Running the App**
+
 python app.py
