@@ -1,9 +1,10 @@
-Green Vision
+**Green Vision**
 
 Green Vision is a Python-based project that combines computer vision and sustainability insights.
 It leverages machine learning models (via Jupyter notebooks) and a simple web interface (app.py) to demonstrate how AI can be applied to green initiatives.
 
-🚀 Features
+
+**🚀 Features**
 
 📊 Interactive Jupyter notebooks for experimentation
 
@@ -32,6 +33,7 @@ cd Green_vision
 # Create virtual environment (optional but recommended)
 python -m venv venv
 source venv/bin/activate   # On Linux/Mac
+
 venv\Scripts\activate      # On Windows
 
 # Install dependencies
